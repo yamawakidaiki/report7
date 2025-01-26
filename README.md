@@ -7,6 +7,8 @@
 
 
 ### GitHub URL
+https://github.com/yamawakidaiki/report7.git
+
 
 ## 結果と考察
 ### 実行例1と実行例2を実現していることを示す実行結果。
